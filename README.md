@@ -1,5 +1,8 @@
-利用pretrain model訓練分類模型
+### 1.利用vgg16訓練分辨胸腔X光片的病徵是屬於Pneumonia、COVID19、Normal
 
-資料集：COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset
+資料集：https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset
 
-https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset
+### 2.利用yolov11偵測PCB上的零件
+
+資料集：https://www.kaggle.com/datasets/animeshkumarnayak/pcb-fault-detection
+
